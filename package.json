@@ -100,7 +100,7 @@
   },
   "peerDependencies": {},
   "dependencies": {
-    "https://github.com/jdcumptonjr/common": ">=0.44.4",
+    "jdcumptonjr/common": ">=0.44.4",
     "@lykmapipo/env": ">=0.17.39",
     "@lykmapipo/mongoose-connection": ">=0.5.2",
     "async": ">=3.2.1",

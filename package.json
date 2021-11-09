@@ -98,9 +98,8 @@
     "rollup": "^2.58.0",
     "shelljs": "^0.8.4"
   },
-  "peerDependencies": {},
   "dependencies": {
-    "jdcumptonjr/common": ">=0.44.4",
+    "@lykmapipo/common": "github:jdcumptonjr/common",
     "@lykmapipo/env": ">=0.17.39",
     "@lykmapipo/mongoose-connection": ">=0.5.2",
     "async": ">=3.2.1",
